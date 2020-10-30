@@ -13,9 +13,9 @@ This is web application create to give near real-time data to users about the st
 ## Technologies
 
 The techonologies used in this project are:
-*Reactjs
-*HTML
-*CSS
+* Reactjs
+* HTML
+* CSS
 
 ## Screenshots
 
