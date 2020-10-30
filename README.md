@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Screenshots](#screenshots)
+* [Deployment](#deployment)
 
 ## Introduction
 
@@ -27,3 +28,7 @@ The techonologies used in this project are:
 
 ### Bar Graph for Country-Wise Data
 ![country](https://github.com/Pravesh45/covid19-tracker/blob/master/Readme_img/Screen%20Capture_20201030101704.png)
+
+## Deployment
+
+The app is deployed on heroku which is a cloud application platform providing PAAS.The application is deployed at [https://covid1945-tracker.herokuapp.com](https://covid1945-tracker.herokuapp.com/)
